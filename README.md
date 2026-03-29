@@ -5,8 +5,9 @@
 
 ## 📰 My stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexey-Proger&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Proger&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=AlexeyProger&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alexey-Proger&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexey-Proger&theme=transparent"/>
 </p>
 <p>
   <sup><b>That's how many people visited my page:</b></sup>
