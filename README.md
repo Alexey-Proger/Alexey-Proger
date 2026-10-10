@@ -9,11 +9,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexey-Proger&layout=compact&theme=transparent&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexey-Proger&theme=transparent"/>
 </p>
-<p>
-  <sup><b>That's how many people visited my page:</b></sup>
-  <img src="https://komarev.com/ghpvc/?username=Alexey-Proger&style=social&label=Profile+Views" height="30"/>
-  &nbsp;&nbsp;<sup><b></b></sup>&nbsp;&nbsp;
-</p>
 
 ## 🔎 Need help with tools or smth else? 
 ### 📩 You can contact me in [Telegram](https://t.me/AlexeyProger) or create issue!
